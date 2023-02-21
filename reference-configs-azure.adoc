@@ -157,7 +157,7 @@ Puede elegir entre las siguientes configuraciones al poner en marcha Cloud Volum
 * DS15_hacia 2 1
 * E8s_v3
 * E48s_v3 esta 1
-* E8ds_v4 esta 1
+* E8ds_v4
 * E32ds_v4 hacia 1
 * E48DS_v4 hacia 1
 * E80ids_v4 hacia 1,2
@@ -165,7 +165,7 @@ Puede elegir entre las siguientes configuraciones al poner en marcha Cloud Volum
  a| 
 * DS4_v2
 * DS13_v2
-* E8ds_v4 esta 1
+* E8ds_v4
 
  a| 
 * DS5_hacia 2 1
@@ -185,7 +185,7 @@ Puede elegir entre las siguientes configuraciones al poner en marcha Cloud Volum
 * DS15_hacia 2 1
 * E8s_v3
 * E48s_v3 esta 1
-* E8ds_v4 esta 1
+* E8ds_v4
 * E32ds_v4 hacia 1
 * E48DS_v4 hacia 1
 * E80ids_v4 hacia 1,2
@@ -198,7 +198,7 @@ Puede elegir entre las siguientes configuraciones al poner en marcha Cloud Volum
 * DS15_hacia 2 1
 * E8s_v3
 * E48s_v3 esta 1
-* E8ds_v4 esta 1
+* E8ds_v4
 * E32ds_v4 hacia 1
 * E48DS_v4 hacia 1
 * E80ids_v4 hacia 1,2
