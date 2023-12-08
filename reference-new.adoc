@@ -20,6 +20,14 @@ Las últimas versiones de BlueXP también incluyen funciones y mejoras adicional
 
 
 
+== 9.11.1 P12 (8 de diciembre de 2023)
+
+El parche 9.11.1 P12 ya está disponible para Cloud Volumes ONTAP para todos los proveedores de cloud. BlueXP le solicitará que actualice sus sistemas existentes a esta versión de revisión.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.11.1P12["Consulte la lista de errores corregidos en el parche P12"^] (Se requiere inicio de sesión en el sitio de soporte de NetApp).
+
+
+
 == 9.11.1 P6 (19 de febrero de 2023)
 
 El parche 9.11.1 P6 ya está disponible para Cloud Volumes ONTAP para Azure si tiene un conector que ejecuta la versión 3.9.26 o posterior. BlueXP le solicitará que actualice sus sistemas existentes a esta versión de revisión.
