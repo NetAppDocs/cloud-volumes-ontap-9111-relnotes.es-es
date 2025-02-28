@@ -90,7 +90,7 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deploy-aws-
 
 Cloud Volumes ONTAP cuenta ahora con soporte en la región de AWS Jakarta (AP-sureste-3).
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Vea la lista completa de las regiones compatibles de Cloud Volumes ONTAP"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["Vea la lista completa de las regiones compatibles de Cloud Volumes ONTAP"^]
 
 
 
@@ -98,7 +98,7 @@ https://cloud.netapp.com/cloud-volumes-global-regions["Vea la lista completa de 
 
 Cloud Volumes ONTAP ahora es compatible con la región sureste de Azure Brasil.
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Vea la lista completa de las regiones compatibles de Cloud Volumes ONTAP"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["Vea la lista completa de las regiones compatibles de Cloud Volumes ONTAP"^]
 
 
 
