@@ -116,7 +116,7 @@ Ahora son compatibles 24 los equipos virtuales de almacenamiento con Cloud Volum
 
 Los pares de alta disponibilidad de Cloud Volumes ONTAP ahora son soportados en la región de Milán (europa-west8).
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Vea la lista completa de las regiones compatibles de Cloud Volumes ONTAP"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["Vea la lista completa de las regiones compatibles de Cloud Volumes ONTAP"^]
 
 
 
